@@ -1,0 +1,14 @@
+{
+  "name": "telecom-academy-nodejs",
+  "version": "1.0.0",
+  "description": "This is our first NodeJS Application in which the code is saved on GitHUB!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
